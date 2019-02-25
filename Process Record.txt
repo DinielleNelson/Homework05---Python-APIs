@@ -1,0 +1,628 @@
+Beginning Data Retrieval 
+-----------------------------
+Processing Record 1 of 623 | zielonka
+Processing Record 2 of 623 | airai
+Processing Record 3 of 623 | half moon bay
+Processing Record 4 of 623 | ribeira grande
+Processing Record 5 of 623 | busselton
+Processing Record 6 of 623 | bambous virieux
+Processing Record 7 of 623 | tsihombe -- City not found...REMOVE FROM DATASET
+Processing Record 8 of 623 | belushya guba -- City not found...REMOVE FROM DATASET
+Processing Record 9 of 623 | geraldton
+Processing Record 10 of 623 | port hawkesbury
+Processing Record 11 of 623 | rincon
+Processing Record 12 of 623 | ushuaia
+Processing Record 13 of 623 | cape town
+Processing Record 14 of 623 | nikolskoye
+Processing Record 15 of 623 | kathu
+Processing Record 16 of 623 | albany
+Processing Record 17 of 623 | qaanaaq
+Processing Record 18 of 623 | vaini
+Processing Record 19 of 623 | punta arenas
+Processing Record 20 of 623 | bilibino
+Processing Record 21 of 623 | kodinar
+Processing Record 22 of 623 | georgetown
+Processing Record 23 of 623 | vestmannaeyjar
+Processing Record 24 of 623 | rikitea
+Processing Record 25 of 623 | loubomo -- City not found...REMOVE FROM DATASET
+Processing Record 26 of 623 | tuktoyaktuk
+Processing Record 27 of 623 | grand river south east -- City not found...REMOVE FROM DATASET
+Processing Record 28 of 623 | byron bay
+Processing Record 29 of 623 | mataura
+Processing Record 30 of 623 | fortuna
+Processing Record 31 of 623 | san quintin
+Processing Record 32 of 623 | castro
+Processing Record 33 of 623 | kolpashevo
+Processing Record 34 of 623 | kodiak
+Processing Record 35 of 623 | darhan
+Processing Record 36 of 623 | lancaster
+Processing Record 37 of 623 | tumannyy -- City not found...REMOVE FROM DATASET
+Processing Record 38 of 623 | samoded
+Processing Record 39 of 623 | carnarvon
+Processing Record 40 of 623 | cam pha -- City not found...REMOVE FROM DATASET
+Processing Record 41 of 623 | karaul -- City not found...REMOVE FROM DATASET
+Processing Record 42 of 623 | caravelas
+Processing Record 43 of 623 | jamestown
+Processing Record 44 of 623 | norman wells
+Processing Record 45 of 623 | kapaa
+Processing Record 46 of 623 | ushumun
+Processing Record 47 of 623 | yellowknife
+Processing Record 48 of 623 | virginia beach
+Processing Record 49 of 623 | hermanus
+Processing Record 50 of 623 | port jervis
+Processing Record 51 of 623 | east london
+Processing Record 52 of 623 | tiksi
+Processing Record 53 of 623 | atuona
+Processing Record 54 of 623 | miami
+Processing Record 55 of 623 | shingu
+Processing Record 56 of 623 | bethel
+Processing Record 57 of 623 | hithadhoo
+Processing Record 58 of 623 | taolanaro -- City not found...REMOVE FROM DATASET
+Processing Record 59 of 623 | kavieng
+Processing Record 60 of 623 | saskylakh
+Processing Record 61 of 623 | warrnambool
+Processing Record 62 of 623 | kruisfontein
+Processing Record 63 of 623 | vanavara
+Processing Record 64 of 623 | tual
+Processing Record 65 of 623 | shirokiy
+Processing Record 66 of 623 | dikson
+Processing Record 67 of 623 | avarua
+Processing Record 68 of 623 | puerto ayora
+Processing Record 69 of 623 | quixada -- City not found...REMOVE FROM DATASET
+Processing Record 70 of 623 | deputatskiy
+Processing Record 71 of 623 | uruguaiana
+Processing Record 72 of 623 | hilo
+Processing Record 73 of 623 | high level
+Processing Record 74 of 623 | bredasdorp
+Processing Record 75 of 623 | samusu -- City not found...REMOVE FROM DATASET
+Processing Record 76 of 623 | braganca
+Processing Record 77 of 623 | ola
+Processing Record 78 of 623 | aleksandrovka
+Processing Record 79 of 623 | necochea
+Processing Record 80 of 623 | chaman
+Processing Record 81 of 623 | ratne
+Processing Record 82 of 623 | amga
+Processing Record 83 of 623 | guerrero negro
+Processing Record 84 of 623 | atherton
+Processing Record 85 of 623 | sungaipenuh
+Processing Record 86 of 623 | yar-sale
+Processing Record 87 of 623 | illoqqortoormiut -- City not found...REMOVE FROM DATASET
+Processing Record 88 of 623 | san luis
+Processing Record 89 of 623 | provideniya
+Processing Record 90 of 623 | daru
+Processing Record 91 of 623 | nizhneyansk -- City not found...REMOVE FROM DATASET
+Processing Record 92 of 623 | hudiksvall
+Processing Record 93 of 623 | coquimbo
+Processing Record 94 of 623 | asau -- City not found...REMOVE FROM DATASET
+Processing Record 95 of 623 | alofi
+Processing Record 96 of 623 | chokurdakh
+Processing Record 97 of 623 | pierre
+Processing Record 98 of 623 | ancud
+Processing Record 99 of 623 | vanimo
+Processing Record 100 of 623 | upernavik
+Processing Record 101 of 623 | mahibadhoo
+Processing Record 102 of 623 | nouadhibou
+Processing Record 103 of 623 | farafenni
+Processing Record 104 of 623 | bluff
+Processing Record 105 of 623 | alta floresta
+Processing Record 106 of 623 | aykhal
+Processing Record 107 of 623 | nizhniye sergi
+Processing Record 108 of 623 | lagunas
+Processing Record 109 of 623 | marcona -- City not found...REMOVE FROM DATASET
+Processing Record 110 of 623 | nantucket
+Processing Record 111 of 623 | saint pete beach
+Processing Record 112 of 623 | barrow
+Processing Record 113 of 623 | bengkulu -- City not found...REMOVE FROM DATASET
+Processing Record 114 of 623 | narsaq
+Processing Record 115 of 623 | rio grande
+Processing Record 116 of 623 | mangrol
+Processing Record 117 of 623 | londoko -- City not found...REMOVE FROM DATASET
+Processing Record 118 of 623 | kahului
+Processing Record 119 of 623 | port elizabeth
+Processing Record 120 of 623 | vaitupu -- City not found...REMOVE FROM DATASET
+Processing Record 121 of 623 | salalah
+Processing Record 122 of 623 | udachnyy
+Processing Record 123 of 623 | pincher creek
+Processing Record 124 of 623 | cidreira
+Processing Record 125 of 623 | yulara
+Processing Record 126 of 623 | haldibari
+Processing Record 127 of 623 | pemberton
+Processing Record 128 of 623 | flinders
+Processing Record 129 of 623 | ventspils
+Processing Record 130 of 623 | temaraia -- City not found...REMOVE FROM DATASET
+Processing Record 131 of 623 | ixtapa
+Processing Record 132 of 623 | ruatoria -- City not found...REMOVE FROM DATASET
+Processing Record 133 of 623 | ossora
+Processing Record 134 of 623 | louisbourg -- City not found...REMOVE FROM DATASET
+Processing Record 135 of 623 | hobart
+Processing Record 136 of 623 | chernushka
+Processing Record 137 of 623 | esperance
+Processing Record 138 of 623 | ibotirama
+Processing Record 139 of 623 | vangaindrano
+Processing Record 140 of 623 | kedougou
+Processing Record 141 of 623 | lilongwe
+Processing Record 142 of 623 | lovozero
+Processing Record 143 of 623 | arlit
+Processing Record 144 of 623 | santa maria del oro
+Processing Record 145 of 623 | mar del plata
+Processing Record 146 of 623 | vao
+Processing Record 147 of 623 | minot
+Processing Record 148 of 623 | dulce nombre de culmi
+Processing Record 149 of 623 | bhag
+Processing Record 150 of 623 | malwan -- City not found...REMOVE FROM DATASET
+Processing Record 151 of 623 | saint-philippe
+Processing Record 152 of 623 | bengkalis -- City not found...REMOVE FROM DATASET
+Processing Record 153 of 623 | sonoita
+Processing Record 154 of 623 | port blair
+Processing Record 155 of 623 | gorontalo
+Processing Record 156 of 623 | namibe
+Processing Record 157 of 623 | manduria
+Processing Record 158 of 623 | arman
+Processing Record 159 of 623 | neiafu
+Processing Record 160 of 623 | mahebourg
+Processing Record 161 of 623 | butaritari
+Processing Record 162 of 623 | burnie
+Processing Record 163 of 623 | kedrovyy
+Processing Record 164 of 623 | igunga
+Processing Record 165 of 623 | orje
+Processing Record 166 of 623 | lorengau
+Processing Record 167 of 623 | muros
+Processing Record 168 of 623 | emborion
+Processing Record 169 of 623 | matsanga -- City not found...REMOVE FROM DATASET
+Processing Record 170 of 623 | fairbanks
+Processing Record 171 of 623 | sentyabrskiy -- City not found...REMOVE FROM DATASET
+Processing Record 172 of 623 | los llanos de aridane
+Processing Record 173 of 623 | barentsburg -- City not found...REMOVE FROM DATASET
+Processing Record 174 of 623 | stoyba -- City not found...REMOVE FROM DATASET
+Processing Record 175 of 623 | ilulissat
+Processing Record 176 of 623 | port hedland
+Processing Record 177 of 623 | lolua -- City not found...REMOVE FROM DATASET
+Processing Record 178 of 623 | luderitz
+Processing Record 179 of 623 | torbay
+Processing Record 180 of 623 | lagoa
+Processing Record 181 of 623 | saint-joseph
+Processing Record 182 of 623 | husavik
+Processing Record 183 of 623 | nelson bay
+Processing Record 184 of 623 | tura
+Processing Record 185 of 623 | cabo san lucas
+Processing Record 186 of 623 | vestnes
+Processing Record 187 of 623 | belaya gora
+Processing Record 188 of 623 | victoria
+Processing Record 189 of 623 | kyabram
+Processing Record 190 of 623 | ponta do sol
+Processing Record 191 of 623 | akyab -- City not found...REMOVE FROM DATASET
+Processing Record 192 of 623 | balotra
+Processing Record 193 of 623 | linxia
+Processing Record 194 of 623 | arraial do cabo
+Processing Record 195 of 623 | havre-saint-pierre
+Processing Record 196 of 623 | vestmanna
+Processing Record 197 of 623 | laguna
+Processing Record 198 of 623 | marsh harbour
+Processing Record 199 of 623 | lujiang
+Processing Record 200 of 623 | gat
+Processing Record 201 of 623 | avera
+Processing Record 202 of 623 | lavrentiya
+Processing Record 203 of 623 | cooma
+Processing Record 204 of 623 | huarmey
+Processing Record 205 of 623 | myitkyina
+Processing Record 206 of 623 | balgazyn
+Processing Record 207 of 623 | khushab
+Processing Record 208 of 623 | margate
+Processing Record 209 of 623 | qaqortoq
+Processing Record 210 of 623 | pokhara
+Processing Record 211 of 623 | palabuhanratu -- City not found...REMOVE FROM DATASET
+Processing Record 212 of 623 | lebu
+Processing Record 213 of 623 | fukue
+Processing Record 214 of 623 | skjervoy
+Processing Record 215 of 623 | nome
+Processing Record 216 of 623 | helena
+Processing Record 217 of 623 | primero de enero
+Processing Record 218 of 623 | khatra
+Processing Record 219 of 623 | bundaberg
+Processing Record 220 of 623 | machilipatnam
+Processing Record 221 of 623 | attawapiskat -- City not found...REMOVE FROM DATASET
+Processing Record 222 of 623 | hunchun
+Processing Record 223 of 623 | tsiroanomandidy
+Processing Record 224 of 623 | mogzon
+Processing Record 225 of 623 | aden
+Processing Record 226 of 623 | saleaula -- City not found...REMOVE FROM DATASET
+Processing Record 227 of 623 | sao miguel do araguaia
+Processing Record 228 of 623 | maloy
+Processing Record 229 of 623 | port alfred
+Processing Record 230 of 623 | fatehpur
+Processing Record 231 of 623 | kamenskoye -- City not found...REMOVE FROM DATASET
+Processing Record 232 of 623 | campo verde
+Processing Record 233 of 623 | cherskiy
+Processing Record 234 of 623 | tallahassee
+Processing Record 235 of 623 | katsuura
+Processing Record 236 of 623 | sisimiut
+Processing Record 237 of 623 | hammerfest
+Processing Record 238 of 623 | balabac
+Processing Record 239 of 623 | waingapu
+Processing Record 240 of 623 | ostrovnoy
+Processing Record 241 of 623 | semnan
+Processing Record 242 of 623 | sena madureira
+Processing Record 243 of 623 | shenzhen
+Processing Record 244 of 623 | caxito
+Processing Record 245 of 623 | krasnyy chikoy
+Processing Record 246 of 623 | roald
+Processing Record 247 of 623 | prince rupert
+Processing Record 248 of 623 | goundi
+Processing Record 249 of 623 | khatanga
+Processing Record 250 of 623 | porto novo
+Processing Record 251 of 623 | mys shmidta -- City not found...REMOVE FROM DATASET
+Processing Record 252 of 623 | nandu
+Processing Record 253 of 623 | kilembe
+Processing Record 254 of 623 | galbshtadt
+Processing Record 255 of 623 | kempsey
+Processing Record 256 of 623 | hofn
+Processing Record 257 of 623 | stephenville
+Processing Record 258 of 623 | qostanay
+Processing Record 259 of 623 | port macquarie
+Processing Record 260 of 623 | imbituba
+Processing Record 261 of 623 | bjornevatn
+Processing Record 262 of 623 | yarmouth
+Processing Record 263 of 623 | hasaki
+Processing Record 264 of 623 | tautira
+Processing Record 265 of 623 | la palma
+Processing Record 266 of 623 | new norfolk
+Processing Record 267 of 623 | alotau -- City not found...REMOVE FROM DATASET
+Processing Record 268 of 623 | karakendzha -- City not found...REMOVE FROM DATASET
+Processing Record 269 of 623 | pevek
+Processing Record 270 of 623 | hoa binh
+Processing Record 271 of 623 | jalu
+Processing Record 272 of 623 | amderma -- City not found...REMOVE FROM DATASET
+Processing Record 273 of 623 | klaksvik
+Processing Record 274 of 623 | burns lake
+Processing Record 275 of 623 | hukuntsi
+Processing Record 276 of 623 | pangnirtung
+Processing Record 277 of 623 | ahipara
+Processing Record 278 of 623 | turukhansk
+Processing Record 279 of 623 | cascais
+Processing Record 280 of 623 | teacapan
+Processing Record 281 of 623 | launceston
+Processing Record 282 of 623 | valparaiso
+Processing Record 283 of 623 | nizhnedevitsk
+Processing Record 284 of 623 | egvekinot
+Processing Record 285 of 623 | lata
+Processing Record 286 of 623 | thinadhoo
+Processing Record 287 of 623 | port lincoln
+Processing Record 288 of 623 | russell
+Processing Record 289 of 623 | sarulesti
+Processing Record 290 of 623 | the pas
+Processing Record 291 of 623 | bandarbeyla
+Processing Record 292 of 623 | san francisco del mar
+Processing Record 293 of 623 | tasiilaq
+Processing Record 294 of 623 | xiaoweizhai
+Processing Record 295 of 623 | wasilla
+Processing Record 296 of 623 | iqaluit
+Processing Record 297 of 623 | nara
+Processing Record 298 of 623 | haines junction
+Processing Record 299 of 623 | broken hill
+Processing Record 300 of 623 | longyearbyen
+Processing Record 301 of 623 | somerset west
+Processing Record 302 of 623 | natal
+Processing Record 303 of 623 | yambio -- City not found...REMOVE FROM DATASET
+Processing Record 304 of 623 | el balyana -- City not found...REMOVE FROM DATASET
+Processing Record 305 of 623 | aklavik
+Processing Record 306 of 623 | solnechnyy
+Processing Record 307 of 623 | lamar
+Processing Record 308 of 623 | andenes -- City not found...REMOVE FROM DATASET
+Processing Record 309 of 623 | zyryanka
+Processing Record 310 of 623 | thenzawl
+Processing Record 311 of 623 | sao joao da barra
+Processing Record 312 of 623 | mabaruma
+Processing Record 313 of 623 | zonguldak
+Processing Record 314 of 623 | ocean springs
+Processing Record 315 of 623 | sabya
+Processing Record 316 of 623 | sao filipe
+Processing Record 317 of 623 | venice
+Processing Record 318 of 623 | axim
+Processing Record 319 of 623 | manavalakurichi
+Processing Record 320 of 623 | thompson
+Processing Record 321 of 623 | kaitangata
+Processing Record 322 of 623 | chuy
+Processing Record 323 of 623 | souillac
+Processing Record 324 of 623 | iquitos
+Processing Record 325 of 623 | niono
+Processing Record 326 of 623 | saint-augustin
+Processing Record 327 of 623 | santona
+Processing Record 328 of 623 | cayenne
+Processing Record 329 of 623 | naze
+Processing Record 330 of 623 | beringovskiy
+Processing Record 331 of 623 | morogoro
+Processing Record 332 of 623 | vitim
+Processing Record 333 of 623 | stillwater
+Processing Record 334 of 623 | tirumullaivasal
+Processing Record 335 of 623 | tabou
+Processing Record 336 of 623 | enid
+Processing Record 337 of 623 | ca mau
+Processing Record 338 of 623 | atambua
+Processing Record 339 of 623 | wawa
+Processing Record 340 of 623 | afmadu -- City not found...REMOVE FROM DATASET
+Processing Record 341 of 623 | tessalit
+Processing Record 342 of 623 | hay river
+Processing Record 343 of 623 | ternate
+Processing Record 344 of 623 | buchanan
+Processing Record 345 of 623 | montepuez
+Processing Record 346 of 623 | saldanha
+Processing Record 347 of 623 | burkhala -- City not found...REMOVE FROM DATASET
+Processing Record 348 of 623 | dingle
+Processing Record 349 of 623 | burriana
+Processing Record 350 of 623 | nueva guinea
+Processing Record 351 of 623 | noshiro
+Processing Record 352 of 623 | ponta delgada
+Processing Record 353 of 623 | alekseyevsk
+Processing Record 354 of 623 | tukrah -- City not found...REMOVE FROM DATASET
+Processing Record 355 of 623 | fortuna foothills
+Processing Record 356 of 623 | champerico
+Processing Record 357 of 623 | hobyo
+Processing Record 358 of 623 | quatre cocos
+Processing Record 359 of 623 | suntar
+Processing Record 360 of 623 | junction city
+Processing Record 361 of 623 | karratha
+Processing Record 362 of 623 | umtata
+Processing Record 363 of 623 | santiago de cao
+Processing Record 364 of 623 | lalmanir hat -- City not found...REMOVE FROM DATASET
+Processing Record 365 of 623 | villazon -- City not found...REMOVE FROM DATASET
+Processing Record 366 of 623 | bom jesus
+Processing Record 367 of 623 | acapulco
+Processing Record 368 of 623 | dharmapuri
+Processing Record 369 of 623 | cuitareo
+Processing Record 370 of 623 | irbil -- City not found...REMOVE FROM DATASET
+Processing Record 371 of 623 | tecolutla
+Processing Record 372 of 623 | tieli
+Processing Record 373 of 623 | barinitas
+Processing Record 374 of 623 | acheng
+Processing Record 375 of 623 | canby
+Processing Record 376 of 623 | vardo
+Processing Record 377 of 623 | iranshahr
+Processing Record 378 of 623 | dandong
+Processing Record 379 of 623 | quelimane
+Processing Record 380 of 623 | ngukurr -- City not found...REMOVE FROM DATASET
+Processing Record 381 of 623 | luan
+Processing Record 382 of 623 | pangody
+Processing Record 383 of 623 | bitam
+Processing Record 384 of 623 | peque
+Processing Record 385 of 623 | svetlogorsk
+Processing Record 386 of 623 | fredericksburg
+Processing Record 387 of 623 | novokizhinginsk
+Processing Record 388 of 623 | sataua -- City not found...REMOVE FROM DATASET
+Processing Record 389 of 623 | olinda
+Processing Record 390 of 623 | vostok
+Processing Record 391 of 623 | spassk-dalniy
+Processing Record 392 of 623 | dunedin
+Processing Record 393 of 623 | viet tri
+Processing Record 394 of 623 | fort frances
+Processing Record 395 of 623 | petropavlovsk-kamchatskiy
+Processing Record 396 of 623 | chifeng
+Processing Record 397 of 623 | tateyama
+Processing Record 398 of 623 | havelock
+Processing Record 399 of 623 | padang
+Processing Record 400 of 623 | sidi ali
+Processing Record 401 of 623 | faanui
+Processing Record 402 of 623 | fez
+Processing Record 403 of 623 | amapa
+Processing Record 404 of 623 | nadym
+Processing Record 405 of 623 | mandalay
+Processing Record 406 of 623 | bolungarvik -- City not found...REMOVE FROM DATASET
+Processing Record 407 of 623 | namatanai
+Processing Record 408 of 623 | morrope
+Processing Record 409 of 623 | mehamn
+Processing Record 410 of 623 | la ronge
+Processing Record 411 of 623 | balkhash
+Processing Record 412 of 623 | kiunga
+Processing Record 413 of 623 | vuktyl
+Processing Record 414 of 623 | cabra
+Processing Record 415 of 623 | clearwater
+Processing Record 416 of 623 | paita
+Processing Record 417 of 623 | sioux lookout
+Processing Record 418 of 623 | touros
+Processing Record 419 of 623 | clyde river
+Processing Record 420 of 623 | lucapa
+Processing Record 421 of 623 | umm lajj
+Processing Record 422 of 623 | moyale
+Processing Record 423 of 623 | pacific grove
+Processing Record 424 of 623 | bantry -- City not found...REMOVE FROM DATASET
+Processing Record 425 of 623 | tocopilla
+Processing Record 426 of 623 | hami
+Processing Record 427 of 623 | bama
+Processing Record 428 of 623 | santa isabel do rio negro
+Processing Record 429 of 623 | mufulira
+Processing Record 430 of 623 | brae
+Processing Record 431 of 623 | kibala
+Processing Record 432 of 623 | kungurtug
+Processing Record 433 of 623 | mineros
+Processing Record 434 of 623 | sunderland
+Processing Record 435 of 623 | kone
+Processing Record 436 of 623 | azar shahr -- City not found...REMOVE FROM DATASET
+Processing Record 437 of 623 | prince george
+Processing Record 438 of 623 | temir
+Processing Record 439 of 623 | durban
+Processing Record 440 of 623 | camacha
+Processing Record 441 of 623 | les cayes
+Processing Record 442 of 623 | komsomolskiy
+Processing Record 443 of 623 | antofagasta
+Processing Record 444 of 623 | joao pinheiro
+Processing Record 445 of 623 | victor harbor
+Processing Record 446 of 623 | alice springs
+Processing Record 447 of 623 | saint george
+Processing Record 448 of 623 | mumbwa
+Processing Record 449 of 623 | fernie
+Processing Record 450 of 623 | tucuman
+Processing Record 451 of 623 | mogadishu
+Processing Record 452 of 623 | coshocton
+Processing Record 453 of 623 | oistins
+Processing Record 454 of 623 | mbeya
+Processing Record 455 of 623 | saint-francois
+Processing Record 456 of 623 | cervo
+Processing Record 457 of 623 | faya
+Processing Record 458 of 623 | boyolangu
+Processing Record 459 of 623 | port-gentil
+Processing Record 460 of 623 | walvis bay
+Processing Record 461 of 623 | severo-kurilsk
+Processing Record 462 of 623 | talnakh
+Processing Record 463 of 623 | kavaratti
+Processing Record 464 of 623 | moron
+Processing Record 465 of 623 | north platte
+Processing Record 466 of 623 | ketchikan
+Processing Record 467 of 623 | el coco
+Processing Record 468 of 623 | suwannaphum
+Processing Record 469 of 623 | lompoc
+Processing Record 470 of 623 | dhadar
+Processing Record 471 of 623 | dvurechensk
+Processing Record 472 of 623 | trairi
+Processing Record 473 of 623 | botshabelo
+Processing Record 474 of 623 | mayo
+Processing Record 475 of 623 | mineral wells
+Processing Record 476 of 623 | ewo
+Processing Record 477 of 623 | sepolno krajenskie
+Processing Record 478 of 623 | sinobong -- City not found...REMOVE FROM DATASET
+Processing Record 479 of 623 | dudinka
+Processing Record 480 of 623 | atbasar
+Processing Record 481 of 623 | mayumba
+Processing Record 482 of 623 | conceicao do araguaia
+Processing Record 483 of 623 | ambilobe
+Processing Record 484 of 623 | oktyabrskiy
+Processing Record 485 of 623 | khonuu -- City not found...REMOVE FROM DATASET
+Processing Record 486 of 623 | paamiut
+Processing Record 487 of 623 | antalaha
+Processing Record 488 of 623 | opobo -- City not found...REMOVE FROM DATASET
+Processing Record 489 of 623 | lasa
+Processing Record 490 of 623 | ahuimanu
+Processing Record 491 of 623 | bonao
+Processing Record 492 of 623 | trimbak
+Processing Record 493 of 623 | berlevag
+Processing Record 494 of 623 | nemuro
+Processing Record 495 of 623 | villa maria
+Processing Record 496 of 623 | shimoda
+Processing Record 497 of 623 | ksenyevka -- City not found...REMOVE FROM DATASET
+Processing Record 498 of 623 | carnot
+Processing Record 499 of 623 | henties bay
+Processing Record 500 of 623 | adrar
+Processing Record 501 of 623 | rocha
+Processing Record 502 of 623 | grand centre -- City not found...REMOVE FROM DATASET
+Processing Record 503 of 623 | deniliquin
+Processing Record 504 of 623 | teahupoo
+Processing Record 505 of 623 | coihueco
+Processing Record 506 of 623 | tevaitoa
+Processing Record 507 of 623 | bend
+Processing Record 508 of 623 | carutapera
+Processing Record 509 of 623 | duz -- City not found...REMOVE FROM DATASET
+Processing Record 510 of 623 | roma
+Processing Record 511 of 623 | lehututu
+Processing Record 512 of 623 | tooele
+Processing Record 513 of 623 | nishihara
+Processing Record 514 of 623 | susangerd
+Processing Record 515 of 623 | litayen -- City not found...REMOVE FROM DATASET
+Processing Record 516 of 623 | javier
+Processing Record 517 of 623 | chulman
+Processing Record 518 of 623 | sur
+Processing Record 519 of 623 | rongcheng
+Processing Record 520 of 623 | kunya
+Processing Record 521 of 623 | labuhan
+Processing Record 522 of 623 | reviga
+Processing Record 523 of 623 | nampula
+Processing Record 524 of 623 | mazatlan
+Processing Record 525 of 623 | kabinda
+Processing Record 526 of 623 | biswan
+Processing Record 527 of 623 | thai binh
+Processing Record 528 of 623 | san policarpo
+Processing Record 529 of 623 | datong
+Processing Record 530 of 623 | gamba
+Processing Record 531 of 623 | westerland
+Processing Record 532 of 623 | san patricio
+Processing Record 533 of 623 | terrace bay
+Processing Record 534 of 623 | port augusta
+Processing Record 535 of 623 | antu
+Processing Record 536 of 623 | usinsk
+Processing Record 537 of 623 | chipinge
+Processing Record 538 of 623 | creel
+Processing Record 539 of 623 | boende
+Processing Record 540 of 623 | ghanzi
+Processing Record 541 of 623 | uniao da victoria -- City not found...REMOVE FROM DATASET
+Processing Record 542 of 623 | mecca
+Processing Record 543 of 623 | nanakuli
+Processing Record 544 of 623 | codrington
+Processing Record 545 of 623 | san mateo del mar
+Processing Record 546 of 623 | karpathos
+Processing Record 547 of 623 | hit
+Processing Record 548 of 623 | maraa
+Processing Record 549 of 623 | songjianghe
+Processing Record 550 of 623 | warqla -- City not found...REMOVE FROM DATASET
+Processing Record 551 of 623 | umm kaddadah
+Processing Record 552 of 623 | basse
+Processing Record 553 of 623 | ambon
+Processing Record 554 of 623 | chernyshkovskiy
+Processing Record 555 of 623 | boddam
+Processing Record 556 of 623 | jalostotitlan
+Processing Record 557 of 623 | skegness
+Processing Record 558 of 623 | richards bay
+Processing Record 559 of 623 | heihe
+Processing Record 560 of 623 | juneau
+Processing Record 561 of 623 | aksarka
+Processing Record 562 of 623 | shelburne
+Processing Record 563 of 623 | sorland
+Processing Record 564 of 623 | conde
+Processing Record 565 of 623 | nanortalik
+Processing Record 566 of 623 | bara
+Processing Record 567 of 623 | orlik
+Processing Record 568 of 623 | le mans
+Processing Record 569 of 623 | flin flon
+Processing Record 570 of 623 | hamilton
+Processing Record 571 of 623 | faridan -- City not found...REMOVE FROM DATASET
+Processing Record 572 of 623 | tuatapere
+Processing Record 573 of 623 | hualmay
+Processing Record 574 of 623 | catuday
+Processing Record 575 of 623 | talara
+Processing Record 576 of 623 | orcopampa
+Processing Record 577 of 623 | santa rosa
+Processing Record 578 of 623 | sobolevo
+Processing Record 579 of 623 | sorong
+Processing Record 580 of 623 | bocaiuva
+Processing Record 581 of 623 | cap malheureux
+Processing Record 582 of 623 | ituni -- City not found...REMOVE FROM DATASET
+Processing Record 583 of 623 | miramar
+Processing Record 584 of 623 | beira
+Processing Record 585 of 623 | isla mujeres
+Processing Record 586 of 623 | rawson
+Processing Record 587 of 623 | tianpeng
+Processing Record 588 of 623 | duki
+Processing Record 589 of 623 | iringa -- City not found...REMOVE FROM DATASET
+Processing Record 590 of 623 | abha
+Processing Record 591 of 623 | kudat
+Processing Record 592 of 623 | morrinhos
+Processing Record 593 of 623 | killybegs
+Processing Record 594 of 623 | oranjemund
+Processing Record 595 of 623 | kalmunai
+Processing Record 596 of 623 | bathsheba
+Processing Record 597 of 623 | belmonte
+Processing Record 598 of 623 | patacamaya
+Processing Record 599 of 623 | tubig indangan -- City not found...REMOVE FROM DATASET
+Processing Record 600 of 623 | saint anthony
+Processing Record 601 of 623 | skagastrond -- City not found...REMOVE FROM DATASET
+Processing Record 602 of 623 | kemi
+Processing Record 603 of 623 | lucea
+Processing Record 604 of 623 | englewood
+Processing Record 605 of 623 | srednebelaya
+Processing Record 606 of 623 | monchegorsk
+Processing Record 607 of 623 | kloulklubed
+Processing Record 608 of 623 | sitka
+Processing Record 609 of 623 | saumur
+Processing Record 610 of 623 | balykshi -- City not found...REMOVE FROM DATASET
+Processing Record 611 of 623 | umzimvubu -- City not found...REMOVE FROM DATASET
+Processing Record 612 of 623 | tharrawaddy -- City not found...REMOVE FROM DATASET
+Processing Record 613 of 623 | sangar
+Processing Record 614 of 623 | taltal
+Processing Record 615 of 623 | hambantota
+Processing Record 616 of 623 | agucadoura
+Processing Record 617 of 623 | campo formoso
+Processing Record 618 of 623 | aswan
+Processing Record 619 of 623 | lubu
+Processing Record 620 of 623 | zhezkazgan
+Processing Record 621 of 623 | acarau -- City not found...REMOVE FROM DATASET
+Processing Record 622 of 623 | cap-aux-meules
+Processing Record 623 of 623 | formoso do araguaia -- City not found...REMOVE FROM DATASET
+----------------------------- 
+Data Retrieval Complete 
+-----------------------------
