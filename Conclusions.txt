@@ -1,0 +1,14 @@
+Trend One
+  When approaching the equator, the temparture does get warmer, but not in a linear fashion. It is exponential and can quickly vary as 
+  the latitude becomes more extreme.
+  
+Trend Two
+  While it may become warmer near equator, humidity does not correspond. Hot climates to tent to be high in humidity, but it can be just
+  as humid in cool climates. In fact the most latitutedes tend to be more humid than not.
+
+Trend Three
+  Cloudiness is interesting as it should be related to humidity, but it does not reflect very similarly. Cloudiness seems to trend not 
+  on latitude at all. But it does show a tendency for extremes, that most locations are nearly to 0% or 90%. 
+ 
+Further Questions
+  I would be curious to see the connection of these observations to presence of landmass versus open ocean, rather than latitude.
